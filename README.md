@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Netactica SA.<br>🌱 I’m currently upgrading my skills in Frontend.
+🔭 I’m currently working on ASJ Servicios.
 
 
 ## 🌐 Socials:
